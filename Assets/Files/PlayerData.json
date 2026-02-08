@@ -1,0 +1,1631 @@
+
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": null,
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "8.164076"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.8074971"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.985603"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "4",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.198203"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "5",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.510663"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "6",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "16.44051"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "41.97028"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.131676"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.419752"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "10.81719"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "4",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.845793"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "7",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "3.335927"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "5",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "3.536166"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "6",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.539099"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.796219"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "8",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "5.792036"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "7",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.966288"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "4",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.61753"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "9",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.614595"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "10",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.5082331"
+},
+{
+  "Button Name": "healing",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "6.534003"
+},
+{
+  "Button Name": "healing",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "healing",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "8.358071"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "11",
+  "Previous Button": "healing",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "6.597417"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "12",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.886703"
+},
+{
+  "Button Name": "pause",
+  "Category": "SettingButton",
+  "Click Count": "1",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "14.0596"
+},
+{
+  "Button Name": "restart",
+  "Category": "SettingButton",
+  "Click Count": "1",
+  "Previous Button": "pause",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": null,
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.69536"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.589771"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "4.992926"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "4",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "8.526859"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "5.502075"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "3.874933"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.98651"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.256713"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "4",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.009816"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "5",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.056347"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "6",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.009634"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "7",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.6887804"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "8",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.5862805"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "9",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.8828856"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "10",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9837801"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "5",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "6.074879"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "6",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.491179"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "7",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.711846"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "8",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.857278"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "9",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "5.107839"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "10",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.6530131"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "11",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "5.85783"
+},
+{
+  "Button Name": "healing",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "7.528013"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "12",
+  "Previous Button": "healing",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "6.217153"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "5.546265"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "11",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9161529"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "12",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9604026"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "13",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.877494"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "14",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.09308"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "15",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.045113"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "16",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.284602"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "17",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.148454"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "18",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.295411"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "19",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.34477"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "20",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.393006"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "21",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "3.206329"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "22",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.859864"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "23",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.178911"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "24",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.286847"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "25",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.8767941"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "26",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.099308"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "27",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.014711"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "6.611197"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "4",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.173226"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "5",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "3.036722"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "28",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "6",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.109917"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "7",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.622313"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "29",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.151328"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "30",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "5.799238"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "31",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.417938"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "32",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.229541"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "33",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9630104"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "34",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9466515"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "35",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.7939595"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "36",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2820162"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "37",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.1851198"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "38",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.1771574"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "39",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.1986535"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "40",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2362445"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "41",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.1885374"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "42",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.1924488"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "43",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.28758"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "44",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2017844"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "45",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2786724"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "46",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2393457"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "47",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2415602"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "48",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2801329"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "49",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2359777"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "50",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.5363731"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "51",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2324294"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "52",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2345811"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "53",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2764965"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "54",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2810695"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "55",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2851507"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "56",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2906267"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "57",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3250919"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "58",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2872557"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "59",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2988413"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "60",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.1970164"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "61",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2873978"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "62",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2388106"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "63",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2837503"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "64",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2885319"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "65",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2676285"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "66",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2900135"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "67",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2380663"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "68",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2420919"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "69",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2224287"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "70",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2383099"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "71",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.4855396"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "72",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.5473814"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "73",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.6296226"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "74",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.5115471"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "75",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.5007777"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "76",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2300105"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "77",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2742518"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "78",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2203536"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "79",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2293688"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "80",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2421827"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "81",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2760662"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "82",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2323276"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "83",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2836098"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "84",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2866299"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "85",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2860849"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "86",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.4339036"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "87",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.303857"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "88",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3212274"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "89",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2816369"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "90",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3389967"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "91",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3064543"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "92",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3357446"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "93",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3447029"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "94",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.793451"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "95",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.979338"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "96",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9804444"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "97",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.58809"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "98",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3683738"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "99",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.2790363"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "100",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3074396"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "8",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "6.255589"
+},
+{
+  "Button Name": "pause",
+  "Category": "SettingButton",
+  "Click Count": "1",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "7.781299"
+},
+{
+  "Button Name": "continue",
+  "Category": "SettingButton",
+  "Click Count": "1",
+  "Previous Button": "pause",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": null,
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "17.44631"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.6907582"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.183432"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.5187535"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "4",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9886369"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.8975577"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": null,
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.166608"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.3874618"
+},
+{
+  "Button Name": "Aiming",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": null,
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "2.054999"
+},
+{
+  "Button Name": "shooting",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "Aiming",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.29181"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "1",
+  "Previous Button": "shooting",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.9399702"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "2",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "1.739626"
+},
+{
+  "Button Name": "walk",
+  "Category": "GameButton",
+  "Click Count": "3",
+  "Previous Button": "walk",
+  "Hand": null,
+  "Color": null,
+  "Size": null,
+  "Idle Time": "0.4804823"
+}
