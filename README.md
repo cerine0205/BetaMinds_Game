@@ -58,7 +58,7 @@ The agent outputs structured JSON recommendations that are used to update the ga
 
 ## Live Demo
 Play the game directly in your browser:
-
+https://cerine0205.itch.io/betaminds
 
 ---
 
